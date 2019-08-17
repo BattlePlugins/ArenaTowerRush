@@ -28,7 +28,7 @@ public class CaptureBlock implements YamlSerializable {
         String[] split = value.split(";");
         CaptureBlock cb = new CaptureBlock();
         cb.type = MaterialAdapter.getMaterial(split[0]);
-        cb.data = Byte.valueOf(split[1]).byteValue();
+        cb.data = Byte.parseByte(split[1]);
         cb.location = SerializerUtil.getLocation(split[2]);
         return cb;
     }

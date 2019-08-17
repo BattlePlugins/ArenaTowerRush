@@ -1,6 +1,6 @@
 BattleArena TowerRush
 ---
-Originally created by the original author of [BattleArena](https://github.com/BattlePlugins/BattleArena), alkarin_v for the Minecraft server, [Pwing.net](http://mc.pwing.net/pwingnet/news/). Due to his absence this plugin was discontinued and hasn't been updated since he left the BattleArena scene. After recieving permission from Tara (original owner of Pwing), I have decided to update and publish the source of this plugin.
+Originally created by the original author of [BattleArena](https://github.com/BattlePlugins/BattleArena), alkarin_v for the Minecraft server, [Pwing.net](http://pwing.net/). Due to his absence this plugin was discontinued and hasn't been updated since he left the BattleArena scene. After receiving permission from Tara (original owner of Pwing), I have decided to update and publish the source of this plugin.
 
 ### Objective
 The objective of TowerRush is to "destroy" the other team's tower before they destroy yours. Each tower has a set amount of health. The team with the most amount of health remaining at the end of the game wins. If a team's tower runs out of health, they are eliminated.
